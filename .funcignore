@@ -1,0 +1,5 @@
+src/
+target/
+!target/x86_64-unknown-linux-musl/release/azure-function-rust
+Cargo.toml
+Cargo.lock
